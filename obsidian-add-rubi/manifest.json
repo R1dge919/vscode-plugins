@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-add-rubi",
+	"name": "Add-Rubi",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "HTMLタグでルビを付与する拡張機能",
+	"author": "RR1dge",
+	"authorUrl": "https://obsidian.md",
+	"isDesktopOnly": false
+}
